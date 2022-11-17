@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Guess The Number</string>
+    <string name="show_msg_label">Guess!</string>
+    <string name="show_hint_label">Hint: guessed number with numbers count of</string>
+    <string name="show_hint_greater_label">Hint: hidden number is greater.</string>
+    <string name="show_hint_less_label">Hint: hidden number is less.</string>
+    <string name="show_attempts_left_label">Attempts left:</string>
+    <string name="btn_guess_label">Guess</string>
+    <string name="btn_restart_label">Restart</string>
+    <string name="et_edit_label">Enter</string>
+    <string name="btn_guessed_label">Guessed</string>
+    <string name="btn_not_guessed_label">Not guessed</string>
+    <string name="btn_settings_label">Settings</string>
+    <string name="t_congratulation_label">CONGRATULATION!</string>
+    <string name="ab_settings">Settings</string>
+    <string name="ab_btn_ok">OK</string>
+    <string name="ab_btn_cancel">Cancel</string>
+    <string name="ab_item_2">2-digits</string>
+    <string name="ab_item_3">3-digits</string>
+    <string name="ab_item_4">4-digits</string>
+    <string name="show_player_name_label">Player:</string>
+    <string name="about_label">About author</string>
+    <string name="name">Danila Danilchyk</string>
+    <string name="group">POIT-202</string>
+    <string name="year">2020</string>
+    <string name="danila_s_photo">Danila\'s photo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_game">Game</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_settings">Settings</string>
+</resources>

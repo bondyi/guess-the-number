@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Угадай число</string>
+    <string name="show_msg_label">Угадай!</string>
+    <string name="show_hint_label">Подсказка: задумано число c количеством цифр</string>
+    <string name="show_hint_greater_label">Подсказка: задуманное число больше.</string>
+    <string name="show_hint_less_label">Подсказка: задуманное число меньше.</string>
+    <string name="show_attempts_left_label">Осталось попыток:</string>
+    <string name="btn_guess_label">Угадать</string>
+    <string name="btn_restart_label">Заново</string>
+    <string name="et_edit_label">Ввод</string>
+    <string name="btn_guessed_label">Угадано</string>
+    <string name="btn_not_guessed_label">Не угадано</string>
+    <string name="btn_settings_label">Настройки</string>
+    <string name="t_congratulation_label">ПОЗДРАВЛЯЮ!</string>
+    <string name="ab_settings">Настройки</string>
+    <string name="ab_btn_ok">ОК</string>
+    <string name="ab_btn_cancel">Отмена</string>
+    <string name="ab_item_2">2-значные</string>
+    <string name="ab_item_3">3-значные</string>
+    <string name="ab_item_4">4-значные</string>
+    <string name="show_player_name_label">Игрок:</string>
+    <string name="about_label">Об авторе</string>
+    <string name="name">Данила Данильчик</string>
+    <string name="group">ПОИТ-202</string>
+    <string name="year">2020</string>
+    <string name="danila_s_photo">Фото Данилы</string>
+    <string name="title_activity_main">ГлавнаяАктивность</string>
+    <string name="title_game">Игра</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_settings">Настройки</string>
+</resources>
